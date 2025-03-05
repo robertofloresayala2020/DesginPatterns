@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "d85Nf7oZIiQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\ChainResponsability\\AuthApi\\AuthApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rober\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0-preview.1.25120.3\\microsoft.aspnetcore.openapi.10.0.0-preview.1.25120.3.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\microsoft.openapi\\2.0.0-preview5\\microsoft.openapi.2.0.0-preview5.nupkg.sha512"
+  ],
+  "logs": []
+}
