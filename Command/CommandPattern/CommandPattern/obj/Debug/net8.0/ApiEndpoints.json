@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "CommandPattern.Controllers.LightController",
+    "Method": "TurnOff",
+    "RelativePath": "Light/turnoff",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CommandPattern.Controllers.LightController",
+    "Method": "TurnOn",
+    "RelativePath": "Light/turnon",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

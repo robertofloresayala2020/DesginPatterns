@@ -1,0 +1,27 @@
+Explicación Detallada
+Command Interface (ICommand):
+Define un método Execute que será implementado por todos los comandos concretos. 
+Esto permite que todos los comandos se ejecuten de manera uniforme.
+
+ConcreteCommand (TurnOnCommand y TurnOffCommand): 
+Implementan la interfaz ICommand y encapsulan la acción de encender y apagar la luz. 
+Cada comando concreto tiene una referencia al receptor (Light) y llama a los métodos apropiados (On y Off) en el receptor.
+
+Receiver (Light): 
+La clase Light contiene la lógica para encender y apagar la luz. 
+Los comandos concretos llaman a estos métodos para realizar las acciones.
+
+Invoker (TaskQueue):
+La clase TaskQueue maneja una cola de comandos utilizando BlockingCollection<ICommand>. 
+Los métodos EnqueueTask y ProcessTasks permiten encolar comandos y procesarlos en orden. StopProcessing detiene el procesamiento de la cola.
+
+Client (LightController):
+El controlador de la Web API expone dos endpoints (turnon y turnoff) que encolan los comandos correspondientes en la cola de tareas.
+El controlador utiliza la inyección de dependencias para obtener una instancia de TaskQueue.
+
+Startup (Program.cs): 
+Configura la inyección de dependencias para TaskQueue y TaskQueueProcessor. 
+
+TaskQueueProcessor es un servicio hospedado que se ejecuta en segundo plano y procesa las tareas en la cola. 
+ExecuteAsync se ejecuta en un bucle continuo hasta que se cancela, procesando las tareas en la cola. 
+StopAsync detiene el procesamiento de la cola cuando el servicio se detiene.

@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Command\\CommandPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B13B7D-489F-41C2-94E6-BBF4117C0285}|CommandPattern\\CommandPattern.csproj|c:\\users\\rober\\onedrive\\documentos\\curso\\design patterns\\command\\commandpattern\\commandpattern\\interfaces\\turnoffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B13B7D-489F-41C2-94E6-BBF4117C0285}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\interfaces\\turnoffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B13B7D-489F-41C2-94E6-BBF4117C0285}|CommandPattern\\CommandPattern.csproj|c:\\users\\rober\\onedrive\\documentos\\curso\\design patterns\\command\\commandpattern\\commandpattern\\interfaces\\turnoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B13B7D-489F-41C2-94E6-BBF4117C0285}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\interfaces\\turnoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B13B7D-489F-41C2-94E6-BBF4117C0285}|CommandPattern\\CommandPattern.csproj|c:\\users\\rober\\onedrive\\documentos\\curso\\design patterns\\command\\commandpattern\\commandpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B13B7D-489F-41C2-94E6-BBF4117C0285}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B13B7D-489F-41C2-94E6-BBF4117C0285}|CommandPattern\\CommandPattern.csproj|c:\\users\\rober\\onedrive\\documentos\\curso\\design patterns\\command\\commandpattern\\commandpattern\\commandpattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4B13B7D-489F-41C2-94E6-BBF4117C0285}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\commandpattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B13B7D-489F-41C2-94E6-BBF4117C0285}|CommandPattern\\CommandPattern.csproj|c:\\users\\rober\\onedrive\\documentos\\curso\\design patterns\\command\\commandpattern\\commandpattern\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4B13B7D-489F-41C2-94E6-BBF4117C0285}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B13B7D-489F-41C2-94E6-BBF4117C0285}|CommandPattern\\CommandPattern.csproj|c:\\users\\rober\\onedrive\\documentos\\curso\\design patterns\\command\\commandpattern\\commandpattern\\controllers\\lightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B13B7D-489F-41C2-94E6-BBF4117C0285}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\controllers\\lightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B13B7D-489F-41C2-94E6-BBF4117C0285}|CommandPattern\\CommandPattern.csproj|c:\\users\\rober\\onedrive\\documentos\\curso\\design patterns\\command\\commandpattern\\commandpattern\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C4B13B7D-489F-41C2-94E6-BBF4117C0285}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B13B7D-489F-41C2-94E6-BBF4117C0285}|CommandPattern\\CommandPattern.csproj|c:\\users\\rober\\onedrive\\documentos\\curso\\design patterns\\command\\commandpattern\\commandpattern\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4B13B7D-489F-41C2-94E6-BBF4117C0285}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B13B7D-489F-41C2-94E6-BBF4117C0285}|CommandPattern\\CommandPattern.csproj|c:\\users\\rober\\onedrive\\documentos\\curso\\design patterns\\command\\commandpattern\\commandpattern\\commandpattern.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C4B13B7D-489F-41C2-94E6-BBF4117C0285}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\commandpattern.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B13B7D-489F-41C2-94E6-BBF4117C0285}|CommandPattern\\CommandPattern.csproj|c:\\users\\rober\\onedrive\\documentos\\curso\\design patterns\\command\\commandpattern\\commandpattern\\explicacion.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C4B13B7D-489F-41C2-94E6-BBF4117C0285}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\explicacion.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B13B7D-489F-41C2-94E6-BBF4117C0285}|CommandPattern\\CommandPattern.csproj|c:\\users\\rober\\onedrive\\documentos\\curso\\design patterns\\command\\commandpattern\\commandpattern\\models\\taskqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B13B7D-489F-41C2-94E6-BBF4117C0285}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\models\\taskqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B13B7D-489F-41C2-94E6-BBF4117C0285}|CommandPattern\\CommandPattern.csproj|c:\\users\\rober\\onedrive\\documentos\\curso\\design patterns\\command\\commandpattern\\commandpattern\\models\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B13B7D-489F-41C2-94E6-BBF4117C0285}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\models\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B13B7D-489F-41C2-94E6-BBF4117C0285}|CommandPattern\\CommandPattern.csproj|c:\\users\\rober\\onedrive\\documentos\\curso\\design patterns\\command\\commandpattern\\commandpattern\\controllers\\lightcontroller.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C4B13B7D-489F-41C2-94E6-BBF4117C0285}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\controllers\\lightcontroller.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Explicacion.txt",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Command\\CommandPattern\\CommandPattern\\Explicacion.txt",
+              "RelativeDocumentMoniker": "CommandPattern\\Explicacion.txt",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Command\\CommandPattern\\CommandPattern\\Explicacion.txt",
+              "RelativeToolTip": "CommandPattern\\Explicacion.txt",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-05T20:00:22.409Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskQueue.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Command\\CommandPattern\\CommandPattern\\Models\\TaskQueue.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Models\\TaskQueue.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Command\\CommandPattern\\CommandPattern\\Models\\TaskQueue.cs",
+              "RelativeToolTip": "CommandPattern\\Models\\TaskQueue.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:29:11.945Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommandPattern",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Command\\CommandPattern\\CommandPattern\\CommandPattern.csproj",
+              "RelativeDocumentMoniker": "CommandPattern\\CommandPattern.csproj",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Command\\CommandPattern\\CommandPattern\\CommandPattern.csproj",
+              "RelativeToolTip": "CommandPattern\\CommandPattern.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-05T20:33:46.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TurnOffCommand.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Command\\CommandPattern\\CommandPattern\\Interfaces\\TurnOffCommand.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Interfaces\\TurnOffCommand.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Command\\CommandPattern\\CommandPattern\\Interfaces\\TurnOffCommand.cs",
+              "RelativeToolTip": "CommandPattern\\Interfaces\\TurnOffCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:27:04.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TurnOnCommand.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Command\\CommandPattern\\CommandPattern\\Interfaces\\TurnOnCommand.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Interfaces\\TurnOnCommand.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Command\\CommandPattern\\CommandPattern\\Interfaces\\TurnOnCommand.cs",
+              "RelativeToolTip": "CommandPattern\\Interfaces\\TurnOnCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:24:49.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Command\\CommandPattern\\CommandPattern\\appsettings.json",
+              "RelativeDocumentMoniker": "CommandPattern\\appsettings.json",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Command\\CommandPattern\\CommandPattern\\appsettings.json",
+              "RelativeToolTip": "CommandPattern\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T20:22:45.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Command\\CommandPattern\\CommandPattern\\Program.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Command\\CommandPattern\\CommandPattern\\Program.cs",
+              "RelativeToolTip": "CommandPattern\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:40:57.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LightController.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Command\\CommandPattern\\CommandPattern\\Controllers\\LightController.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Controllers\\LightController.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Command\\CommandPattern\\CommandPattern\\Controllers\\LightController.cs",
+              "RelativeToolTip": "CommandPattern\\Controllers\\LightController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T20:30:47.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Command\\CommandPattern\\CommandPattern\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "CommandPattern\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Command\\CommandPattern\\CommandPattern\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "CommandPattern\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-05T20:48:12.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Command\\CommandPattern\\CommandPattern\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CommandPattern\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Command\\CommandPattern\\CommandPattern\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CommandPattern\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T20:23:12.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommandPattern",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Command\\CommandPattern\\CommandPattern\\CommandPattern.csproj",
+              "RelativeDocumentMoniker": "CommandPattern\\CommandPattern.csproj",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Command\\CommandPattern\\CommandPattern\\CommandPattern.csproj",
+              "RelativeToolTip": "CommandPattern\\CommandPattern.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-05T20:31:38.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Light.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Command\\CommandPattern\\CommandPattern\\Models\\Light.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Models\\Light.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Command\\CommandPattern\\CommandPattern\\Models\\Light.cs",
+              "RelativeToolTip": "CommandPattern\\Models\\Light.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:25:38.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LightController.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Command\\CommandPattern\\CommandPattern\\Controllers\\LightController.cs",
+              "RelativeDocumentMoniker": "CommandPattern\\Controllers\\LightController.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Command\\CommandPattern\\CommandPattern\\Controllers\\LightController.cs",
+              "RelativeToolTip": "CommandPattern\\Controllers\\LightController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:31:55.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

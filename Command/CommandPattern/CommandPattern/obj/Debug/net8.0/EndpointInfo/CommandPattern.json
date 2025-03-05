@@ -1,0 +1,34 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "CommandPatternQueueExample API",
+    "version": "v1"
+  },
+  "paths": {
+    "/Light/turnon": {
+      "post": {
+        "tags": [
+          "Light"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Light/turnoff": {
+      "post": {
+        "tags": [
+          "Light"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}
