@@ -1,0 +1,15 @@
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\TreeIterator\TreeIterator\obj\Debug\net8.0\TreeIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\TreeIterator\TreeIterator\obj\Debug\net8.0\TreeIterator.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\TreeIterator\TreeIterator\obj\Debug\net8.0\TreeIterator.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\TreeIterator\TreeIterator\obj\Debug\net8.0\TreeIterator.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\TreeIterator\TreeIterator\obj\Debug\net8.0\TreeIterator.sourcelink.json
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\TreeIterator\TreeIterator\bin\Debug\net8.0\TreeIterator.exe
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\TreeIterator\TreeIterator\bin\Debug\net8.0\TreeIterator.deps.json
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\TreeIterator\TreeIterator\bin\Debug\net8.0\TreeIterator.runtimeconfig.json
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\TreeIterator\TreeIterator\bin\Debug\net8.0\TreeIterator.dll
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\TreeIterator\TreeIterator\bin\Debug\net8.0\TreeIterator.pdb
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\TreeIterator\TreeIterator\obj\Debug\net8.0\TreeIterator.dll
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\TreeIterator\TreeIterator\obj\Debug\net8.0\refint\TreeIterator.dll
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\TreeIterator\TreeIterator\obj\Debug\net8.0\TreeIterator.pdb
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\TreeIterator\TreeIterator\obj\Debug\net8.0\TreeIterator.genruntimeconfig.cache
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\TreeIterator\TreeIterator\obj\Debug\net8.0\ref\TreeIterator.dll

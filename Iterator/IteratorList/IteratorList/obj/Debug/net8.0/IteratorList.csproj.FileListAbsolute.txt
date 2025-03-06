@@ -1,0 +1,15 @@
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\IteratorList\IteratorList\bin\Debug\net8.0\IteratorList.exe
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\IteratorList\IteratorList\bin\Debug\net8.0\IteratorList.deps.json
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\IteratorList\IteratorList\bin\Debug\net8.0\IteratorList.runtimeconfig.json
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\IteratorList\IteratorList\bin\Debug\net8.0\IteratorList.dll
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\IteratorList\IteratorList\bin\Debug\net8.0\IteratorList.pdb
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\IteratorList\IteratorList\obj\Debug\net8.0\IteratorList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\IteratorList\IteratorList\obj\Debug\net8.0\IteratorList.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\IteratorList\IteratorList\obj\Debug\net8.0\IteratorList.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\IteratorList\IteratorList\obj\Debug\net8.0\IteratorList.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\IteratorList\IteratorList\obj\Debug\net8.0\IteratorList.sourcelink.json
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\IteratorList\IteratorList\obj\Debug\net8.0\IteratorList.dll
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\IteratorList\IteratorList\obj\Debug\net8.0\refint\IteratorList.dll
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\IteratorList\IteratorList\obj\Debug\net8.0\IteratorList.pdb
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\IteratorList\IteratorList\obj\Debug\net8.0\IteratorList.genruntimeconfig.cache
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Iterator\IteratorList\IteratorList\obj\Debug\net8.0\ref\IteratorList.dll

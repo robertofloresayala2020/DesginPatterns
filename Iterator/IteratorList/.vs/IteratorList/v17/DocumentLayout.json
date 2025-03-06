@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Iterator\\IteratorList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F572F6F-66EC-40BC-A1FC-7DDECD23CCDC}|..\\TreeIterator\\TreeIterator\\TreeIterator.csproj|c:\\users\\rober\\onedrive\\documentos\\curso\\design patterns\\iterator\\treeiterator\\treeiterator\\class\\inorderiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F572F6F-66EC-40BC-A1FC-7DDECD23CCDC}|..\\TreeIterator\\TreeIterator\\TreeIterator.csproj|c:\\users\\rober\\onedrive\\documentos\\curso\\design patterns\\iterator\\treeiterator\\treeiterator\\class\\levelorderiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F572F6F-66EC-40BC-A1FC-7DDECD23CCDC}|..\\TreeIterator\\TreeIterator\\TreeIterator.csproj|c:\\users\\rober\\onedrive\\documentos\\curso\\design patterns\\iterator\\treeiterator\\treeiterator\\class\\preorderiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F572F6F-66EC-40BC-A1FC-7DDECD23CCDC}|..\\TreeIterator\\TreeIterator\\TreeIterator.csproj|c:\\users\\rober\\onedrive\\documentos\\curso\\design patterns\\iterator\\treeiterator\\treeiterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213AD89C-7E17-4FA2-9A95-DA366B9D2600}|IteratorList\\IteratorList.csproj|c:\\users\\rober\\onedrive\\documentos\\curso\\design patterns\\iterator\\iteratorlist\\iteratorlist\\interface\\iiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213AD89C-7E17-4FA2-9A95-DA366B9D2600}|IteratorList\\IteratorList.csproj|solutionrelative:iteratorlist\\interface\\iiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F572F6F-66EC-40BC-A1FC-7DDECD23CCDC}|..\\TreeIterator\\TreeIterator\\TreeIterator.csproj|c:\\users\\rober\\onedrive\\documentos\\curso\\design patterns\\iterator\\treeiterator\\treeiterator\\model\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213AD89C-7E17-4FA2-9A95-DA366B9D2600}|IteratorList\\IteratorList.csproj|c:\\users\\rober\\onedrive\\documentos\\curso\\design patterns\\iterator\\iteratorlist\\iteratorlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213AD89C-7E17-4FA2-9A95-DA366B9D2600}|IteratorList\\IteratorList.csproj|solutionrelative:iteratorlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213AD89C-7E17-4FA2-9A95-DA366B9D2600}|IteratorList\\IteratorList.csproj|c:\\users\\rober\\onedrive\\documentos\\curso\\design patterns\\iterator\\iteratorlist\\iteratorlist\\agregator\\concreteaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213AD89C-7E17-4FA2-9A95-DA366B9D2600}|IteratorList\\IteratorList.csproj|solutionrelative:iteratorlist\\agregator\\concreteaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213AD89C-7E17-4FA2-9A95-DA366B9D2600}|IteratorList\\IteratorList.csproj|c:\\users\\rober\\onedrive\\documentos\\curso\\design patterns\\iterator\\iteratorlist\\iteratorlist\\interface\\iaggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213AD89C-7E17-4FA2-9A95-DA366B9D2600}|IteratorList\\IteratorList.csproj|solutionrelative:iteratorlist\\interface\\iaggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213AD89C-7E17-4FA2-9A95-DA366B9D2600}|IteratorList\\IteratorList.csproj|c:\\users\\rober\\onedrive\\documentos\\curso\\design patterns\\iterator\\iteratorlist\\iteratorlist\\concrete\\concreteiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213AD89C-7E17-4FA2-9A95-DA366B9D2600}|IteratorList\\IteratorList.csproj|solutionrelative:iteratorlist\\concrete\\concreteiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelOrderIterator.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Iterator\\TreeIterator\\TreeIterator\\Class\\LevelOrderIterator.cs",
+              "RelativeDocumentMoniker": "..\\TreeIterator\\TreeIterator\\Class\\LevelOrderIterator.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Iterator\\TreeIterator\\TreeIterator\\Class\\LevelOrderIterator.cs",
+              "RelativeToolTip": "..\\TreeIterator\\TreeIterator\\Class\\LevelOrderIterator.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T18:33:03.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InOrderIterator.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Iterator\\TreeIterator\\TreeIterator\\Class\\InOrderIterator.cs",
+              "RelativeDocumentMoniker": "..\\TreeIterator\\TreeIterator\\Class\\InOrderIterator.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Iterator\\TreeIterator\\TreeIterator\\Class\\InOrderIterator.cs",
+              "RelativeToolTip": "..\\TreeIterator\\TreeIterator\\Class\\InOrderIterator.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwCUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T18:28:50.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PreOrderIterator.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Iterator\\TreeIterator\\TreeIterator\\Class\\PreOrderIterator.cs",
+              "RelativeDocumentMoniker": "..\\TreeIterator\\TreeIterator\\Class\\PreOrderIterator.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Iterator\\TreeIterator\\TreeIterator\\Class\\PreOrderIterator.cs",
+              "RelativeToolTip": "..\\TreeIterator\\TreeIterator\\Class\\PreOrderIterator.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T18:28:34.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TreeNode.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Iterator\\TreeIterator\\TreeIterator\\Model\\TreeNode.cs",
+              "RelativeDocumentMoniker": "..\\TreeIterator\\TreeIterator\\Model\\TreeNode.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Iterator\\TreeIterator\\TreeIterator\\Model\\TreeNode.cs",
+              "RelativeToolTip": "..\\TreeIterator\\TreeIterator\\Model\\TreeNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T18:08:09.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Iterator\\TreeIterator\\TreeIterator\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TreeIterator\\TreeIterator\\Program.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Iterator\\TreeIterator\\TreeIterator\\Program.cs",
+              "RelativeToolTip": "..\\TreeIterator\\TreeIterator\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T18:06:02.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAggregator.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Iterator\\IteratorList\\IteratorList\\Interface\\IAggregator.cs",
+              "RelativeDocumentMoniker": "IteratorList\\Interface\\IAggregator.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Iterator\\IteratorList\\IteratorList\\Interface\\IAggregator.cs",
+              "RelativeToolTip": "IteratorList\\Interface\\IAggregator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:36:08.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConcreteIterator.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Iterator\\IteratorList\\IteratorList\\Concrete\\ConcreteIterator.cs",
+              "RelativeDocumentMoniker": "IteratorList\\Concrete\\ConcreteIterator.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Iterator\\IteratorList\\IteratorList\\Concrete\\ConcreteIterator.cs",
+              "RelativeToolTip": "IteratorList\\Concrete\\ConcreteIterator.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvykAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:25:33.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IIterator.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Iterator\\IteratorList\\IteratorList\\Interface\\IIterator.cs",
+              "RelativeDocumentMoniker": "IteratorList\\Interface\\IIterator.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Iterator\\IteratorList\\IteratorList\\Interface\\IIterator.cs",
+              "RelativeToolTip": "IteratorList\\Interface\\IIterator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:24:02.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConcreteAggregate.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Iterator\\IteratorList\\IteratorList\\Agregator\\ConcreteAggregate.cs",
+              "RelativeDocumentMoniker": "IteratorList\\Agregator\\ConcreteAggregate.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Iterator\\IteratorList\\IteratorList\\Agregator\\ConcreteAggregate.cs",
+              "RelativeToolTip": "IteratorList\\Agregator\\ConcreteAggregate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:39:10.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Iterator\\IteratorList\\IteratorList\\Program.cs",
+              "RelativeDocumentMoniker": "IteratorList\\Program.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documentos\\Curso\\Design patterns\\Iterator\\IteratorList\\IteratorList\\Program.cs",
+              "RelativeToolTip": "IteratorList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:22:05.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
