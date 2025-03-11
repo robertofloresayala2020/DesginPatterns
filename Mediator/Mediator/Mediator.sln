@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatMediator", "ChatMediator\ChatMediator.csproj", "{07298F98-62D3-44F3-907C-2DB061F20F69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiMediatR", "ApiMediatR\ApiMediatR.csproj", "{328E8974-4B1F-43D3-BE71-EB11834CFFD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07298F98-62D3-44F3-907C-2DB061F20F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07298F98-62D3-44F3-907C-2DB061F20F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07298F98-62D3-44F3-907C-2DB061F20F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07298F98-62D3-44F3-907C-2DB061F20F69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{328E8974-4B1F-43D3-BE71-EB11834CFFD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{328E8974-4B1F-43D3-BE71-EB11834CFFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{328E8974-4B1F-43D3-BE71-EB11834CFFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{328E8974-4B1F-43D3-BE71-EB11834CFFD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9E3470E-FAD6-4008-BA63-083427BC0DD5}
+	EndGlobalSection
+EndGlobal

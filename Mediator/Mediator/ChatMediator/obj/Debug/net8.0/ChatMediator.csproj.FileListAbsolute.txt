@@ -1,0 +1,15 @@
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Mediator\Mediator\ChatMediator\bin\Debug\net8.0\ChatMediator.exe
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Mediator\Mediator\ChatMediator\bin\Debug\net8.0\ChatMediator.deps.json
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Mediator\Mediator\ChatMediator\bin\Debug\net8.0\ChatMediator.runtimeconfig.json
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Mediator\Mediator\ChatMediator\bin\Debug\net8.0\ChatMediator.dll
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Mediator\Mediator\ChatMediator\bin\Debug\net8.0\ChatMediator.pdb
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Mediator\Mediator\ChatMediator\obj\Debug\net8.0\ChatMediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Mediator\Mediator\ChatMediator\obj\Debug\net8.0\ChatMediator.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Mediator\Mediator\ChatMediator\obj\Debug\net8.0\ChatMediator.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Mediator\Mediator\ChatMediator\obj\Debug\net8.0\ChatMediator.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Mediator\Mediator\ChatMediator\obj\Debug\net8.0\ChatMediator.sourcelink.json
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Mediator\Mediator\ChatMediator\obj\Debug\net8.0\ChatMediator.dll
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Mediator\Mediator\ChatMediator\obj\Debug\net8.0\refint\ChatMediator.dll
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Mediator\Mediator\ChatMediator\obj\Debug\net8.0\ChatMediator.pdb
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Mediator\Mediator\ChatMediator\obj\Debug\net8.0\ChatMediator.genruntimeconfig.cache
+C:\Users\rober\OneDrive\Documentos\Curso\Design patterns\Mediator\Mediator\ChatMediator\obj\Debug\net8.0\ref\ChatMediator.dll

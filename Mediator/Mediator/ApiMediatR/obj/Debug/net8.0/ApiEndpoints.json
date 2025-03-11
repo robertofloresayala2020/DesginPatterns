@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "ApiMediatR.Controllers.ProductController",
+    "Method": "CreateProduct",
+    "RelativePath": "api/controller",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "ApiMediatR.Command.CreateProductCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiMediatR.Controllers.ProductController",
+    "Method": "GetProduct",
+    "RelativePath": "api/controller/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
